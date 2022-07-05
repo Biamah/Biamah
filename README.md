@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Beatriz vulgo Biamah 👋
 
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Hoje eu trabalho como front-end
 - 🌱 Estou estudando ADS na Estácio
-- 👯 Atualmente sou programadora frontend na agencia Fuerza Studio
+- 👯 Sou programadora frontend na agencia Fuerza Studio
 - 📫 Contate-me pelo email: beatriz.souza.costa@outlook.com
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1cAvxZc81fZlljpXOcdeC39nxaHtH3J3k/view?usp=sharing" target="_blank">Currículo</a> para mais informações
 
