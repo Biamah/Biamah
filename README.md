@@ -3,7 +3,7 @@
 
 - 🔭 Hoje eu trabalho como front-end
 - 🌱 Estou estudando ADS na Estácio
-- 👯 Sou programadora frontend na agencia Fuerza Studio
+- 👯 Sou programadora frontend e fullstack.
 - 📫 Contate-me pelo email: beatriz.souza.costa@outlook.com
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1cAvxZc81fZlljpXOcdeC39nxaHtH3J3k/view?usp=sharing" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/beatriz-souza-espitalher/" target="_blank">Linkedin</a> para mais informações
 
