@@ -5,7 +5,7 @@
 - 🌱 Estou estudando ADS na Estácio
 - 👯 Sou programadora frontend e fullstack.
 - 📫 Contate-me pelo email: beatriz.souza.costa@outlook.com
-- 📃 Veja meu <a href="https://drive.google.com/file/d/1cAvxZc81fZlljpXOcdeC39nxaHtH3J3k/view?usp=sharing" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/beatriz-souza-espitalher/" target="_blank">Linkedin</a> para mais informações
+- 📃 Veja meu <a href="https://drive.google.com/file/d/1MfmgWa-a2QKBR-x7fJ-kdEVW1hWoBO-P/view?usp=drive_link" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/beatriz-souza-espitalher/" target="_blank">Linkedin</a> para mais informações
 
 <div>
   <a href="https://github.com/Biamah">
