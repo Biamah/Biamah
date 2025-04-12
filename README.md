@@ -7,18 +7,14 @@
 - 📫 Contate-me pelo email: beatriz.souza.costa@outlook.com
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1MfmgWa-a2QKBR-x7fJ-kdEVW1hWoBO-P/view?usp=drive_link" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/beatriz-souza-espitalher/" target="_blank">Linkedin</a> para mais informações
 
-<div style="display: flex; flex-direction: column; gap: 1rem;">
+<div style="display: inline_block">
   <a href="https://github.com/Biamah">
     <!-- GitHub Stats (com cache reduzido) -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biamah&show_icons=true&theme=dracula&cache_seconds=3600" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biamah&show_icons=true&theme=dracula&include_all_commits=true" />
   </a>
   <a href="https://github.com/Biamah">
     <!-- Linguagens mais usadas -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamah&layout=compact&theme=dracula" />
-  </a>
-  <a href="https://github.com/Biamah">
-    <!-- Streak Stats -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=biamah&theme=dracula" />
   </a>
 </div>
   
