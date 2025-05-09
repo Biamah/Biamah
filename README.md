@@ -12,15 +12,6 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biamah&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biamah&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
 
-<div style="display: inline_block">
-  <a href="https://github.com/Biamah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biamah&show_icons=true&theme=dracula&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/Biamah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamah&layout=compact&theme=dracula" />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,html,css,sass,tailwind,git,github,figma,nodejs,express,postgres,python,docker,vscode" />
