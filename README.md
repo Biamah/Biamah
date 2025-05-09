@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Beatriz vulgo Biamah 👋
 
-- 🔭 Hoje eu trabalho como desenvolvedora Front-End
-- 🌱 Sou formada em Análise e Desenvolvimento de Sistemas, pela Estácio
+- 🔭 Hoje eu trabalho como desenvolvedora FullStack
+- 🌱 Sou formada em Análise e Desenvolvimento de Sistemas, pela Estácio | E estou cursando uma Pós em Desenvolvimento FullStack
 - 👯 Sou programadora Front-End e Fullstack
 - 📫 Contate-me pelo email: beatriz.souza.costa@outlook.com
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1MfmgWa-a2QKBR-x7fJ-kdEVW1hWoBO-P/view?usp=drive_link" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/beatriz-souza-espitalher/" target="_blank">Linkedin</a> para mais informações
